@@ -1,7 +1,7 @@
 Hi 👋 My name is Eric Munene
 =============================
 
-Web developer
+Full-Stack Web developer
 -------------
 
 I am a Web Developer, interested in learning, building and finding ways to make things as simple as possible in every criteria that am trained and experienced.
