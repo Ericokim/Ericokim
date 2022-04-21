@@ -1,16 +1,15 @@
 Hi 👋 My name is Eric Munene
-=============================
+============================
 
 Full-Stack Web developer
--------------
+------------------------
 
-I am a Web Developer, interested in learning, building and finding ways to make things as simple as possible in every criteria that am trained and experienced.
+I am a Web Developer, interested in learning, building and finding ways to make things as simple as possible in every criteria that am trained experienced.
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [erickims08@gmail.com](mailto:erickims08@gmail.com)
-* 🧠  I'm learning Blockchain Technology
-* 🤝  I'm open to collaborating on React Native projects and any Front-end web Applications
-* ⚡  Also am into hiking
+* 🧠  I'm learning Blockchain
+* 🤝  I'm open to collaborating on React projects
 
 <a href="https://www.twitter.com/erico_kims08" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/erico_kims08?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -39,7 +38,7 @@ src="https://img.shields.io/github/followers/Ericokim?logo=github&style=for-the-
 
 ### Socials
 
-<p align="left"> <a href="https://www.dev.to/ericokim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/Ericokim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eric-kimathi-924021164" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/erico_kims08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.dev.to/ericokim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.github.com/Ericokim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/erico_kims" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/eric-kimathi-924021164" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/erico_kims08" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
