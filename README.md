@@ -1,10 +1,10 @@
 Hi 👋 My name is Eric Munene
 ============================
 
-Full-Stack Web developer
+Front-end Web developer
 ------------------------
 
-I am a Web Developer, interested in learning, building and finding ways to make things as simple as possible in every criteria that am trained experienced.
+I am a Front-end Web developer, interested in learning, building and finding ways to make things as simple as possible in every criteria that am trained experienced.
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [erickims08@gmail.com](mailto:erickims08@gmail.com)
