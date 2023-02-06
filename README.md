@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack developer
 --------------------
 
-I am a Full-Stack developer, interested in learning, building and finding ways to make things as simple as possible in every criteria that am trained experienced.
+I am a Full-Stack developer, interested in learning, building and finding ways to make things as simple as possible in every criteria that i've trained and experienced.
 
 * ✉️  You can contact me at [erickims08@gmail.com](mailto:erickims08@gmail.com)
 * 🤝  I'm open to collaborating on projects
