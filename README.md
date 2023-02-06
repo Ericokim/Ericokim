@@ -6,10 +6,8 @@ Full-Stack developer
 
 I am a Full-Stack developer, interested in learning, building and finding ways to make things as simple as possible in every criteria that am trained experienced.
 
-* 🌍  I'm based in Kenya
 * ✉️  You can contact me at [erickims08@gmail.com](mailto:erickims08@gmail.com)
-* 🧠  I'm learning Blockchain
-* 🤝  I'm open to collaborating on React projects
+* 🤝  I'm open to collaborating on projects
 
 <a href="https://www.twitter.com/erico_kims08" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/erico_kims08?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
